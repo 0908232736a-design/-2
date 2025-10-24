@@ -3,7 +3,7 @@
    - 筆記欄位：書名（必填）、心得（選填）
    - 任何人都可新增/編輯/刪除（資料存在 localStorage）
 */
-const DEFAULT_CATEGORIES = ['小說','詩','散文','雜記'];
+const DEFAULT_CATEGORIES = ['發展心理','諮商心理','人格心理','知覺心理','社會心理'];
 const STORAGE_KEY = 'reading_notes_simple_v1';
 
 // DOM elements
